@@ -1,0 +1,29 @@
+{
+  "study": [
+    {
+      "type": "pdf",
+      "title": "Sample Questions 1",
+      "link": "pdf1.pdf"
+    },
+    {
+      "type": "pdf",
+      "title": "Sample Questions 2",
+      "link": "pdf2.pdf"
+    },
+    {
+      "type": "link",
+      "title": "APTITUDE TEST Questions and ANSWERS! - Video",
+      "link": "https://www.youtube.com/watch?v=YerFp7SPOE8"
+    },
+    {
+      "type": "link",
+      "title": "APTITUDE TEST",
+      "link": "https://www.practicereasoningtests.com/practice-aptitude-tests/"
+    },
+    {
+      "type": "pdf",
+      "title": "Aptitude Test Sample Questions and Answers",
+      "link": "pdf3.pdf"
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "question": [
+    {
+      "type": "General Aptitude",
+      "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+      "options": [
+        "120 metres",
+        "180 metres",
+        "324 metres",
+        "150 metres"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "General Aptitude",
+      "question": "From a point P on a level ground, the angle of elevation of the top tower is 30°. If the tower is 100 m high, the distance of point P from the foot of the tower is:",
+      "options": [
+        "149 m",
+        "156 m",
+        "173 m",
+        "200 m"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "General Aptitude",
+      "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+      "options": [
+        "4 years",
+        "8 years",
+        "10 years",
+        "None of these"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "General Aptitude",
+      "question": "At 3:40, the hour hand and the minute hand of a clock form an angle of:",
+      "options": [
+        "120°",
+        "125°",
+        "130°",
+        "135°"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "General Aptitude",
+      "question": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:",
+      "options": [
+        "2 : 5",
+        "3 : 5",
+        "4 : 5",
+        "6 : 7"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "Verbal and Reasoning",
+      "question": "The study of ancient societies",
+      "options": [
+        "Anthropology",
+        "Archaeology",
+        "History",
+        "Ethnology"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "Verbal and Reasoning",
+      "question": "Which word does NOT belong with the others?",
+      "options": [
+        "parsley",
+        "basil",
+        "dill",
+        "mayonnaise"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "Verbal and Reasoning",
+      "question": "The school principal has received complaints from parents about bullying in the school yard during recess. He wants to investigate and end this situation as soon as possible, so he has asked the recess aides to watch closely. Which situation should the recess aides report to the principal?",
+      "options": [
+        "A girl is sitting glumly on a bench reading a book and not interacting with her peers.",
+        "Four girls are surrounding another girl and seem to have possession of her backpack.",
+        "Two boys are playing a one-on-one game of basketball and are arguing over the last basket scored.",
+        "Three boys are huddled over a handheld video game, which isn't supposed to be on school grounds."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "Verbal and Reasoning",
+      "question": "Rita, an accomplished pastry chef who is well known for her artistic and exquisite wedding cakes, opened a bakery one year ago and is surprised that business has been so slow. A consultant she hired to conduct market research has reported that the local population doesn't think of her shop as one they would visit on a daily basis but rather a place they'd visit if they were celebrating a special occasion. Which of the following strategies should Rita employ to increase her daily business?",
+      "options": [
+        "making coupons available that entitle the coupon holder to receive a 25% discount on wedding, anniversary, or birthday cakes",
+        "exhibiting at the next Bridal Expo and having pieces of one of her wedding cakes available for tasting",
+        "placing a series of ads in the local newspaper that advertise the wide array of breads",
+        "moving the bakery to the other side of town"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "Verbal and Reasoning",
+      "question": "Mrs. Jansen recently moved to Arizona. She wants to fill her new backyard with flowering plants. Although she is an experienced gardener, she isn't very well-versed in what plants will do well in the Arizona climate. Also, there is a big tree in her backyard making for shady conditions and she isn't sure what plants will thrive without much direct sunlight. Her favorite gardening catalog offers several backyard seed packages. Which one should Mrs. Jansen choose?",
+      "options": [
+        "The Rainbow Collection is ideal for North-east gardens. It includes a variety of colorful perennials that thrive in cool, moist conditions.",
+        "The Greenhouse Collection will blossom year after year if planted in brightly lit locations and watered regularly.",
+        "The Treehouse Collection will provide lush green plants with delicate colorful flowers that thrive in shady and partially shady locations.",
+        "The Oasis Collection includes a variety of perennials that thrive in dry climates and bright sunlight."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "Current Affairs & GK",
+      "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "options": [
+        "largest railway station",
+        "highest railway station",
+        "longest railway station",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "Current Affairs & GK",
+      "question": "Entomology is the science that studies",
+      "options": [
+        "Behavior of human beings",
+        "Insects",
+        "The origin and history of technical and scientific terms",
+        "The formation of rocks"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "Current Affairs & GK",
+      "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "Australia"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "Current Affairs & GK",
+      "question": "For which of the following disciplines is Nobel Prize awarded?",
+      "options": [
+        "Physics and Chemistry",
+        "Physiology or Medicine",
+        "Literature, Peace and Economics",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "Current Affairs & GK",
+      "question": "Hitler party which came into power in 1933 is known as",
+      "options": [
+        "Labour Party",
+        "Nazi Party",
+        "Ku-Klux-Klan",
+        "Democratic Party"
+      ],
+      "answer": 1
+    }
+  ]
+}
